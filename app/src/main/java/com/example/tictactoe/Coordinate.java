@@ -30,8 +30,8 @@ public class Coordinate {
     @Override
     public String toString() {
         return "Coordinate{" +
-                "y=" + x +
-                ", x=" + y +
+                "y=" + y +
+                ", x=" + x +
                 ", playerNumber=" + playerNumber +
                 '}';
     }
